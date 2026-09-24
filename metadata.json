@@ -1,0 +1,6 @@
+{
+  "name": "Informatika Ta'lim Portali - Axadboy Nishanov",
+  "description": "5-11 sinflar uchun informatika darsligi, testlar, interaktiv o'yinlar, reyting tizimi, video va topshiriqlar platformasi hamda ovozli AI yordamchi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
